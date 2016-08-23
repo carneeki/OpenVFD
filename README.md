@@ -58,3 +58,7 @@ http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1129&context=eesp
 Martin Nawrath, "Arduino DDS Sine Wave Generator",
 Academy of Media Arts Cologne
 http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-dds-sinewave-generator/
+
+
+And the datasheet which is referenced quite a lot in OpenVFD.ino
+http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf
