@@ -14,13 +14,13 @@ can be used connect machinery.
 
 VFDs follow several stages, and can be broken up into 3 separate circuits:
 
-1) AC->DC rectification. This means that AC coming in is turned into DC power.
+1. AC->DC rectification. This means that AC coming in is turned into DC power.
 DC power is smoothed out for fewer ripples. This is where 3 phase really shines, there's a lot less ripple.
-1) DC->AC inverter. Gnomes receive signals from a controller to turn a bunch of
+1. DC->AC inverter. Gnomes receive signals from a controller to turn a bunch of
 switches on and off really fast so the motor thinks it sees AC power. Depending
 on how fast the gnomes are clicking the switches controls how fast the motor
 spins.
-1) The controller is the final circuit, which the Arduino code concerns itself
+1. The controller is the final circuit, which the Arduino code concerns itself
 with.
 
 ## AC->DC rectification
